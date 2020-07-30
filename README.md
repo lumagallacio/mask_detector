@@ -1,4 +1,4 @@
-# mask face detector
+# mask/face detector
 
 A model that can find a face in an image and predict whether or not to use masks. 
 
